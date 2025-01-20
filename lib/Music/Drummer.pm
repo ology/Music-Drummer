@@ -6,10 +6,6 @@ our $VERSION = '0.0100';
 
 use parent 'MIDI::Drummer::Tiny';
 
-=head1 NAME
-
-Music::Drummer - Use MIDI::Drummer::Tiny
-
 =head1 SYNOPSIS
 
   use Music::Drummer ();
@@ -22,7 +18,8 @@ Music::Drummer - Use MIDI::Drummer::Tiny
 
 =head1 DESCRIPTION
 
-C<Music::Drummer> uses the L<MIDI::Drummer::Tiny> module.
+C<Music::Drummer> uses the L<MIDI::Drummer::Tiny> module. It is simply
+an module alias with a friendlier, searchable name.
 
 =head1 SEE ALSO
 
