@@ -1,6 +1,7 @@
 Revision history for Music-Drummer
 
 {{$NEXT}}
+    - Bump prereq.
 
 0.0100 2025-01-19 17:15:22
     - Mint with Dist::Zilla.
