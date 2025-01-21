@@ -2,7 +2,7 @@ package Music::Drummer;
 
 # ABSTRACT: Use MIDI::Drummer::Tiny
 
-our $VERSION = '0.0104';
+our $VERSION = '0.0105';
 
 use parent 'MIDI::Drummer::Tiny';
 
