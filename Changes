@@ -1,6 +1,7 @@
 Revision history for Music-Drummer
 
 {{$NEXT}}
+    - Bump prereq.
 
 0.5010 2025-02-03 08:54:57
     - Sync version with M::D::T.
