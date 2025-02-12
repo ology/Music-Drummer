@@ -20,7 +20,7 @@ use parent 'MIDI::Drummer::Tiny';
 
 C<Music::Drummer> uses the L<MIDI::Drummer::Tiny> module. It is simply
 a module alias with a friendlier, searchable name and description
-keywords like B<drum>, B<drums>, amd B<drumming>.
+keywords like B<drum>, B<drums>, and B<drumming>.
 
 =head1 SEE ALSO
 
