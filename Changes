@@ -1,6 +1,7 @@
 Revision history for Music-Drummer
 
 {{$NEXT}}
+    - Update test and bump prereq.
 
 0.5013 2025-02-13 20:04:37
     - Bump prereq.
